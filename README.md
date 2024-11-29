@@ -1,4 +1,4 @@
-These are C++ code for Computer graphics assignments and problems./n
+These are C++ code for Computer graphics assignments and problems.\
 Computer graphics: Image synthesis using ray tracing and rasterization (C++/CMake)
 - Created images using ray tracing with parallel and perspective projections. 
 - Implemented shadings such as shadows, reflection and Perlin noise to enrich images.
